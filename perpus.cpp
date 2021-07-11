@@ -200,7 +200,7 @@ void hapusbuku(){
 	bool found;
 	string nama;
 	menu:
-	cout<<"Masukkan nama file tempat buku ingin dipinjam: ";cin>>nama;
+	cout<<"Masukkan nama file tempat buku ingin dihapus: ";cin>>nama;
 	inFile.open(nama.c_str());
 
 	if (!inFile){
