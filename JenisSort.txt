@@ -1,0 +1,4 @@
+sortbynama & sortby penerbit BUBBLE SORT
+sortbytahun INSERTION SORT
+sortbypenulis SELECTION SORT
+sortbykode SHELL SORT
